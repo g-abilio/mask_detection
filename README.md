@@ -6,6 +6,17 @@ This repo uses various computer vision technologies, such as deep learning, imag
 
 <img src="aux_data/readme_images/with_mask.png" width="400" height="235" alt="Screenshot"> <img src="aux_data/readme_images/no_mask.png" width="400" height="235" alt="Screenshot">
 
+## CNN network structure
+
+The neural net used in this project is based on the CNN developed in the article:
+Kim, J.H., Kim, B.G., Roy, P.P. & Jeong, D.M. Efficient facial expression 
+recognition algorithm based on hierarchical deep neural network 
+structure. IEEE Access 7, 41273–41285 (2019). 
+
+An image, retrieved from the paper, representing this convnet is below:
+
+<img src="aux_data/readme_images/convnet_structure.png" width="600" height="200" alt="Screenshot">
+
 ## Instructions for Use
 
 1. Clone the repo: 
