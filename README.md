@@ -38,6 +38,7 @@ chmod +x run.sh
 ```bash
 ./run.sh
 ```
+* To quit the real time detection, press the "q" key.
 
 #### Important Observations: 
 * The app requires a good ilumination to work correctly.
